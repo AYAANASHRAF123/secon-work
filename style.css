@@ -1,0 +1,18 @@
+.img{
+    background-image: url('img/download.jfif');
+    background-size: cover;
+    
+    height: 200px;
+    color: azure;
+    background-color: aqua;
+}
+i{
+    color: aliceblue;
+}
+.backcolor{
+    color: aliceblue;
+    margin: 20px;
+}
+.ayaan{
+    width: 1500px;
+}
